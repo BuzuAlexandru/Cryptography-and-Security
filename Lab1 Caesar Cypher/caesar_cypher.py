@@ -26,4 +26,4 @@ def encrypt(text, s):
 
 
 # check the above function
-intercept_text = intercept()
+intercept_text = txt_input()
